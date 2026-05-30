@@ -1,0 +1,19 @@
+fastapi==0.115.5
+uvicorn[standard]==0.32.1
+python-multipart==0.0.12
+pydantic==2.10.3
+pydantic-settings==2.7.0
+
+# LangChain core + integrations
+langchain==0.3.11
+langchain-community==0.3.11
+langchain-openai==0.2.12
+
+# Vector store
+chromadb==0.5.23
+
+# Document parsing
+pypdf==5.1.0
+
+# OpenAI SDK
+openai==1.57.2
